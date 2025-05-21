@@ -1,0 +1,52 @@
+ID,Name,Type
+10,Energy AC,AC_ACTIVE_ENERGY
+11,Grid Frequency,GRID_FREQUENCY
+12,Shutdown Grid Counter,STATUS
+13,Temperature IGBT,TEMPERATURE
+14,AC Current,CURRENT
+15,AC Voltage,VOLTAGE
+16,Active Alarm Code,STATUS
+17,Active Power AC,AC_ACTIVE_POWER
+18,DC Current,CURRENT
+19,DC Power,ACTIVE_POWER
+20,DC Voltage,VOLTAGE
+21,Energy AC,AC_ACTIVE_ENERGY
+22,Grid Frequency,GRID_FREQUENCY
+23,Shutdown Grid Counter,STATUS
+24,Temperature IGBT,TEMPERATURE
+25,Irraggiamento Piano Moduli,MODULE_SOLAR_IRRADIANCE
+26,Temperatura Ambiente,ENVIRONMENT_TEMPERATURE
+29,IN01 Protezione Int. DG,DIGITAL_INPUT
+3,AC Current,CURRENT
+30,IN02 Int. Alim. Servizi interni,DIGITAL_INPUT
+31,IN03 Int. Trasformatore BT,DIGITAL_INPUT
+32,IN04 Allarme Temp. Trasformatore,DIGITAL_INPUT
+33,IN05 Intervento sovratemperatura/sovrapressione trasformatore,DIGITAL_INPUT
+34,IN06 Int. Alim. Servizi Aux,DIGITAL_INPUT
+35,IN07 Int. Alim. UPS,DIGITAL_INPUT
+36,IN08 Int. Alim. Protezioni interne trasformatore,DIGITAL_INPUT
+37,Expected Power AC,EXPECTED_POWER
+38,Expected Power AC,EXPECTED_POWER
+4,AC Voltage,VOLTAGE
+40,Temperatura Locale Inverter,LOCAL_TEMPERATURE_INVERTER
+41,Temperatura Moduli,MODULE_TEMPERATURE
+42,Irraggiamento grezzo,MODULE_SOLAR_IRRADIANCE
+43,Energy AC,AC_ACTIVE_ENERGY
+44,Energy AC,AC_ACTIVE_ENERGY
+5,Active Alarm Code,STATUS
+6,Active Power AC,AC_ACTIVE_POWER
+7,DC Current,CURRENT
+8,DC Power,ACTIVE_POWER
+9,DC Voltage,VOLTAGE
+D.10.DELTA,Energy AC DELTA,AC_ACTIVE_ENERGY_DELTA
+D.10.EH,Ore equivalenti (da Energy AC),EQUIVALENT_HOURS
+D.17.PERC,Active Power AC %,ACTIVE_POWER_AC
+D.21.DELTA,Energy AC DELTA,AC_ACTIVE_ENERGY_DELTA
+D.21.EH,Ore equivalenti (da Energy AC),EQUIVALENT_HOURS
+D.25.ISIRR,Irraggiamento Piano Moduli ISIRR,INTEGRAL_SOLAR_IRRADIANCE
+D.25.STDDEV,Irraggiamento Piano Moduli STDDEV,STDDEV_IRRADIANCE
+D.6.PERC,Active Power AC %,ACTIVE_POWER_AC
+V45,Performance Ratio,PERFORMANCE_RATIO
+V46,Performance Ratio,PERFORMANCE_RATIO
+V47,Expected Power AC,EXPECTED_POWER
+V48,Expected Power AC,EXPECTED_POWER
